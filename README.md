@@ -1,5 +1,5 @@
 # blind
-The following link provides a blind sample of Colab extensions to help the review process:
+The following links provide  blind samples of the proposed Colab extensions to help the review process:
 
 * [Logic Synthesis](https://colab.research.google.com/drive/1_10RNeTwpIVCTVwfqG5MILwkxVbNIERm?usp=sharing)
 
